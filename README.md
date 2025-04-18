@@ -21,8 +21,9 @@ Le modèle a été entraîné à l'aide du dataset de prunes africaines disponib
 
 
 git clone https://github.com/ChetchuengKamsuAI/triplumcamer.git
-cd prune_class
 
+# changer de dossier
+cd prune_class
 # Création et activation de l'environnement virtuel
 python -m venv venv
 # Pour Linux / macOS
